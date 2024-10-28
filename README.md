@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Jiggy!
 
+**"Driven by curiosity, powered by technology, and committed to empowering others."**
+
 Welcome to my GitHub! I’m a **Staff Software Engineer** with a passion for crafting **scalable, secure, and impactful software solutions**. With expertise rooted in the **telecom domain** and **21 years of experience**, I’m driven by the challenge of building resilient systems that transform ideas into action.
 
 ---
@@ -13,8 +15,25 @@ Welcome to my GitHub! I’m a **Staff Software Engineer** with a passion for cra
   - Postgrad in Cybersecurity
   - Currently pursuing a Postgrad in Data Science and AI at UNSW
 - **Special Interests**: Creating self-serve, AI-powered solutions and leading secure, high-impact projects that make a difference.
+- **Mentorship**: Proud mentor at **UNSW** and within my organization, where I guide aspiring engineers and data scientists in technical excellence and career development.
+
 
 ---
+
+## 🌟 Core Values
+
+- **Curiosity & Continuous Learning**: I believe that staying curious and embracing new technologies are the keys to innovation. I’m always eager to dive into the latest advancements to keep pushing my skills and understanding.
+
+- **Empowerment Through Mentorship**: I’m committed to fostering growth, both in myself and in others. As a mentor at UNSW and within my organization, I strive to empower those around me, helping them realize their full potential.
+
+- **Integrity & Security-First Mindset**: Building secure solutions is at the heart of my work. I advocate for best practices in secure coding, focusing on resilience and integrity in every application I build.
+
+- **Innovation & Impact**: I aim to create solutions that don’t just solve problems but drive meaningful impact. Every project is an opportunity to innovate, scale, and deliver real value.
+
+- **Collaboration & Inclusivity**: Great solutions come from collaborative efforts. I’m a strong believer in creating an inclusive work environment where diverse perspectives are encouraged and celebrated.
+
+---
+
 
 ## 💼 What I Do
 
@@ -86,9 +105,11 @@ I’m working on a new personal project—an innovative approach to tracking and
 
 ## 📫 Let's Connect!
 
-I'm always open to new ideas, collaborations, and challenges. Feel free to reach out!
+I'm always open to new ideas, collaborations, and discussions on technology, mentorship, and beyond. Whether you’re interested in chatting about innovative AI/ML solutions, discussing telecom advancements, or exploring ways to scale impactful projects, feel free to reach out. Let’s build something remarkable together!
 
 - **LinkedIn**: [https://www.linkedin.com/in/jiggy/]
 - **Email**: [jig2nesh@gmail.com]
+
+Looking forward to connecting and sharing insights!
 
 ---
